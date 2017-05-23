@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # terraform-course
 
 * These files are part of my Udemy course about Terraform
@@ -29,3 +30,6 @@ jenkins-packer-demo | Demo with jenkins and Packer
 docker-demo-1 | Using ECR - The EC2 Container Registry
 docker-demo-2 | Using ECS - The EC2 Container Service
 docker-demo-3 | Using ECR/ECS with Jenkins in a complete workflow
+=======
+# gitraj
+>>>>>>> 8bce949f1dbca363365ff5d8f34395d9d0e4fc30
